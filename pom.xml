@@ -39,7 +39,7 @@
 	</licenses>
 
 	<properties>
-		<adjava.version>6.4.24-SNAPSHOT</adjava.version>
+		<adjava.version>6.4.25-SNAPSHOT</adjava.version>
 		<mf4mdd.version>4.5.0-SNAPSHOT</mf4mdd.version>
 		<android.mdk.version>6.0.0-SNAPSHOT</android.mdk.version>
 		<android.mdk.apklib.version>6.0.0-SNAPSHOT</android.mdk.apklib.version>
