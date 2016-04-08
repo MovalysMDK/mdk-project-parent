@@ -39,9 +39,9 @@
 	</licenses>
 
 	<properties>
-		<adjava.version>6.10.0-SNAPSHOT</adjava.version>
-		<mf4mdd.version>6.4.0-SNAPSHOT</mf4mdd.version>
-		<android.mdk.version>6.4.0-SNAPSHOT</android.mdk.version>
+		<adjava.version>6.9.0</adjava.version>
+		<mf4mdd.version>6.3.0</mf4mdd.version>
+		<android.mdk.version>6.3.1</android.mdk.version>
 	</properties>
 
 	<scm>
